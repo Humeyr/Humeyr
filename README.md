@@ -5,7 +5,7 @@
 
 <p align="left">👩‍ I´m Humeyra, Front-end (React) developer that have working experience on developing websites.<br>
 ⚡ Positiv and planned person that can work well both individually and as a team; that´s to say it is easy to communicate with me :)<br>
-💻 By writing clean and structured code, my aim is to continue my career as a Front-end (React) Developer and develop my skills.<br> 
+💻 By writing clean and structured code, i aim to continue my career as a Front-end (React) Developer and develop my skills.<br> 
 ⏳ Trying to stay up to date with the latest trends in web development and looking forward to colloborate with new developers as a teammate.<br>
 ⭐️ You can contact me any time via my social media accounts below. 👋</p>
 

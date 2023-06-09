@@ -3,8 +3,8 @@
 
 ###
 
-<p align="left">✨ I´m Humeyra, Front-end (React) developer, and have working experience on developing websites.<br>
-✨ Positiv and planned person that can work well both individually and as a team; that´s to say its easy to communicate with me :)<br>
+<p align="left">✨ I´m Humeyra, Front-end|React developer, and have working experience on developing websites.<br>
+✨ Positive and planned person that can work well both individually and as a team; that´s to say its easy to communicate with me :)<br>
 ✨ By writing clean and structured code, I aim to develop my skills and become a professionel Front-end (React) Developer.<br> 
 ✨ Trying to stay up to date with the latest trends and looking forward to colloborate with new developers as a teammate.<br>
 ✨ You can contact me anytime via my social media accounts below. 👋</p>
